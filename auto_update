@@ -1,11 +1,11 @@
 [fm_hotchip]
 version=3.7.12.13
-url=https://fmhost.dedyn.io:65443/fm_sistemas/executavel/fm_hotchip.zip
+url=https://fmhost.dedyn.io:65443/fm_update/fm_hotchip.zip
 
 [fm_control]
 version=1.0.2.2
-url=https://fmhost.dedyn.io:65443/fm_sistemas/executavel/fm_control.zip
+url=https://fmhost.dedyn.io:65443/fm_update/fm_control.zip
 
 [fm_update]
 version=1.0.0.0
-url=https://fmhost.dedyn.io:65443/fm_sistemas/executavel/fm_update.zip
+url=https://fmhost.dedyn.io:65443/fm_update/fm_update.zip
