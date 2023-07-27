@@ -3,7 +3,7 @@ version=3.7.12.13
 url=https://fmhost.dedyn.io:65443/fm_sistemas/executavel/fm_hotchip.zip
 
 [fm_control]
-1.0.2.2
+version=1.0.2.2
 url=https://fmhost.dedyn.io:65443/fm_sistemas/executavel/fm_control.zip
 
 [fm_update]
