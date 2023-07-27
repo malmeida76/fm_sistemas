@@ -7,5 +7,5 @@ version=1.0.2.2
 url=https://fmhost.dedyn.io:65443/fm_sistemas/executavel/fm_control.zip
 
 [fm_update]
-1.0.0.0
+version=1.0.0.0
 url=https://fmhost.dedyn.io:65443/fm_sistemas/executavel/fm_update.zip
