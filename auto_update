@@ -1,5 +1,5 @@
 [fm_hotchip]
-version=3.7.12.14
+version=3.7.9.9
 url=https://fmhost.dedyn.io:65443/fm_update/fm_hotchip.zip
 
 [fm_control]
