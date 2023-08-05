@@ -3,7 +3,7 @@ version=3.8.5.0
 url=https://fmhost.dedyn.io:65443/fm_update/fm_hotchip.zip
 
 [fm_control]
-version=1.0.8.0
+version=1.4.0.0
 url=https://fmhost.dedyn.io:65443/fm_update/fm_control.zip
 
 [fm_sistemas]
