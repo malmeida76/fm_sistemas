@@ -12,5 +12,3 @@ url=https://fmhost.dedyn.io:65443/fm_update/fm_sistemas.exe
 
 [fm_proxy]
 0=https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.json
-1=https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json
-2=https://raw.githubusercontent.com/themiralay/ProxyList-Scraping/master/proxy-list/data-with-geolocation.json
