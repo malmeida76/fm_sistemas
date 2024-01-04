@@ -1,3 +1,7 @@
+[zappflow]
+version=1.0.0.0
+url=https://fmhost.dedyn.io:65443/fm_update/zappflow.zip
+
 [fm_hotchip]
 version=3.8.5.0
 url=https://fmhost.dedyn.io:65443/fm_update/fm_hotchip.zip
